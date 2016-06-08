@@ -1,6 +1,5 @@
-# Embedded Systems Course Repository
-# Universidad Privada Boliviana - Electronics and Telecommunications Eng.
+# Lab 1: K64-Arduino Async. Communication
 
-This repository is intended to provide examples for NXP Kinetis Developments Boards to students of the Embedded Systems course.
+This projects has code for the K64F development board and for Arduino UNO board
 
-The major part of the examples uses Kientis Design Studio (KDS) with Processors Expert (PEx)Tool, therefore the projects include only the source code files in order to avoid problems with file extensions from PEx.
+This projects aims to communicate K64F with Arduino UNO through Serial Async. communication
