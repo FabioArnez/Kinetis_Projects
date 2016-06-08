@@ -1,5 +1,5 @@
 # Embedded Systems Course Repository
-# Universida Privada Boliviana - Electronics and Telecommunications Eng.
+# Universidad Privada Boliviana - Electronics and Telecommunications Eng.
 
 This repository is intended to provide examples for NXP Kinetis Developments Boards to students of the Embedded Systems course.
 
